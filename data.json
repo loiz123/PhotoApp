@@ -1,0 +1,25 @@
+{
+  users [
+    {
+      id 1,
+      uname an.nguyen,
+      password 123456,
+      url_profile httpsi.pravatar.cc400img=1,
+      short_bio Sinh viên Công nghệ phần mềm, thích lập trình Android.
+    },
+    {
+      id 2,
+      uname binh.tran,
+      password abc@123,
+      url_profile httpsi.pravatar.cc400img=2,
+      short_bio Yêu thích thiết kế UIUX và chụp ảnh.
+    },
+    {
+      id 3,
+      uname chi.le,
+      password qwerty,
+      url_profile httpsi.pravatar.cc400img=3,
+      short_bio Backend developer, đam mê hệ thống phân tán.
+    }
+  ]
+}

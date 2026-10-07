@@ -20,13 +20,6 @@
       "password": "qwerty",
       "url_profile": "https://i.pravatar.cc/400?img=3",
       "short_bio": "Backend developer, đam mê hệ thống phân tán."
-    },
-      {
-      "id": 4,
-      "uname": "vu.han",
-      "password": "chinese numbar one",
-      "url_profile": "https://m.media-amazon.com/images/I/41dTqo1LDdL.jpg",
-      "short_bio": "Người yêu thích văn hóa Đại Lục, đặc biệt là kungflu"
     }
   ]
 }
